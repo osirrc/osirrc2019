@@ -36,7 +36,3 @@ The tentative timeline is as follows:
 - July 25: workshop at SIGIR
 
 The workshop itself at SIGIR will be devoted to discussing the results of this exercise and the path forward for the community. Although this replicability challenge is the "main event" of the workshop, we are considering the solicitation of position papers to round out the agenda, in which case the deadline will align with other SIGIR workshops in early May. We are also considering the publication of lightweight proceedings (containing, for example, replication reports) via CEUR-WS.
-
-[1] https://www.acm.org/publications/policies/artifact-review-badging
-
-[2] N. Ferro and D. Kelly. 2018. SIGIR Initiative to Implement ACM Artifact Review and Badging. SIGIR Forum 52, 1 (June 2018), 4–10.
