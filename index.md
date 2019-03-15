@@ -1,11 +1,8 @@
-
-# The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)
+# Call for Participation
 
 Organizers: Nicola Ferro, Claudia Hauff, Jimmy Lin, and Tetsuya Sakai
 
-** first call for participation **
-
-The importance of repeatability, replicability, and reproducibility is broadly recognized in the computational sciences, both in supporting desirable scientific methodology as well as sustaining empirical progress. Recent ACM guidelines precisely define the relevant terms as follows [1]:
+The importance of repeatability, replicability, and reproducibility is broadly recognized in the computational sciences, both in supporting desirable scientific methodology as well as sustaining empirical progress. Recent [ACM guidelines](https://www.acm.org/publications/policies/artifact-review-badging) precisely define the relevant terms as follows:
 
 - Repeatability (same team, same experimental setup): a researcher can reliably repeat her own computation.
 
@@ -13,14 +10,15 @@ The importance of repeatability, replicability, and reproducibility is broadly r
 
 - Reproducibility (different team, different experimental setup): an independent group can obtain the same result using artifacts which they develop completely independently.
 
-These guidelines are also being adopted by the SIGIR community, which has recently established a task force to determine how to implement them for IR [2].
+These guidelines are also being adopted by the SIGIR community, which has recently established [a task force to determine how to implement them for IR](http://sigir.org/wp-content/uploads/2018/07/p004.pdf).
 
 OSIRRC 2019 aims to address the replicability challenge for ad hoc document retrieval. That is, how can we make it easy for others to replicate our results? Trivially, replicability ensures repeatability, and is a stepping stone toward reproducibility.
 
 Our vision is to build Docker-based infrastructure for replicating results on standard ad hoc test collections (newswire, web, etc.). A future paper, for example, might be paired with a Docker image whose execution yields the results presented in the paper. However, to maximize the impact of these Docker images, the following would be desirable:
 
-(1) These Docker images should follow some common specification, with "hooks" for indexing, training, retrieval, etc. The development of this specification should involve a community process.
-(2) There needs to be evaluation infrastructure that calls the "hooks" above for multiple images to perform aggregation and analyses, for example, to populate a leaderboard or to evaluate the images on a blind held-out test set.
+1. These Docker images should follow some common specification, with "hooks" for indexing, training, retrieval, etc. The development of this specification should involve a community process.
+
+2. There needs to be evaluation infrastructure that calls the "hooks" above for multiple images to perform aggregation and analyses, for example, to populate a leaderboard or to evaluate the images on a blind held-out test set.
 
 Participants in OSIRRC 2019 will help build consensus on the Docker specifications and contribute Docker images that conform to the agreed-upon specifications. The organizers, potentially with help from the community, will build the evaluation infrastructure.
 
