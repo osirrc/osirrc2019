@@ -43,7 +43,7 @@ We are soliciting two kinds of contributions from the community:
 
 All the papers will be reviewed by at least three members of the program committee.
 
-Accepted papers will be included in the OSIRRC 2019 proceedings in the [CEUR Workshop Proceedings](http://ceur-ws.org/) series, indexed by DBLP, Google Scholar, Scopus and others.
+All the accepted papers, both position and docker images papers, will be included in the OSIRRC 2019 proceedings in the [CEUR Workshop Proceedings](http://ceur-ws.org/) series, indexed by DBLP, Google Scholar, Scopus and others.
 
 All the accepted papers will be given a presentation slot during the workshop.
 
