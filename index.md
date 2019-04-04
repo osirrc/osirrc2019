@@ -1,6 +1,4 @@
-# Call for Participation
-
-Organizers: Nicola Ferro, Claudia Hauff, Jimmy Lin, and Tetsuya Sakai
+# Vision
 
 The importance of repeatability, replicability, and reproducibility is broadly recognized in the computational sciences, both in supporting desirable scientific methodology as well as sustaining empirical progress. Recent [ACM guidelines](https://www.acm.org/publications/policies/artifact-review-badging) precisely define the relevant terms as follows:
 
@@ -22,17 +20,82 @@ Our vision is to build Docker-based infrastructure for replicating results on st
 
 Participants in OSIRRC 2019 will help build consensus on the Docker specifications and contribute Docker images that conform to the agreed-upon specifications. The organizers, potentially with help from the community, will build the evaluation infrastructure.
 
-Tentatively, our initial focus will be on newswire collections (since they are smaller and more manageable). We solicit participants who would be willing to contribute Docker images that encapsulate strong baselines as well as state-of-the-art techniques: examples include runs based on query expansion, entity annotations, and neural networks. In particular, we are actively soliciting involvement from researchers working on neural IR.
+Interested individuals and teams are requested to email osirrc2019-organizers@googlegroups.com for more details or directly join the Google groups osirrc2019@googlegroups.com.
 
-Interested individuals and teams are requested to email osirrc2019-organizers@googlegroups.com for more details or directly join the Google groups osirrc2019@googlegroups.com. We are currently in the process of gathering potential participants and initial expressions of interest, after which discussion will commence on the mailing list to converge towards the specifications of the Docker images as described above.
 
-The tentative timeline is as follows:
+# Call for Position Papers and Participation in the Challenge
 
-- Immediately: expressions of interest by joining mailing list
-- Shortly thereafter: mailing list discussions on Docker specifications
-- mid-April: final Docker specifications available
-- June: Docker images due from participants
-- June-July: organizers execute and analyze Docker images from participants
-- July 25: workshop at SIGIR
+We are soliciting two kinds of contributions from the community:
 
-The workshop itself at SIGIR will be devoted to discussing the results of this exercise and the path forward for the community. Although this replicability challenge is the "main event" of the workshop, we are considering the solicitation of position papers to round out the agenda, in which case the deadline will align with other SIGIR workshops in early May. We are also considering the publication of lightweight proceedings (containing, for example, replication reports) via CEUR-WS.
+#### Participation in the replicability challenge and related "docker paper"
+
+  We solicit participants who would be willing to contribute Docker images that encapsulate strong baselines as well as state-of-the-art techniques: examples include runs based on query expansion, entity annotations, and neural networks. In particular, we are actively soliciting involvement from researchers working on neural IR.
+  
+  Tentatively, our initial focus will be on newswire collections (since they are smaller and more manageable).
+
+ These Docker images have to be accompanied by a paper describing the experience of a team in participating to the challenge.
+  
+#### Position papers
+
+  We solicit perspective authors to submit position papers around the issues of replicability in the IR field, with a special focus on infrastructures to enable them.
+  
+  The goal of these papers is to further stimulate the discussion at the workshop and help shaping the path forward for the community.
+
+All the papers will be reviewed by at least three members of the program committee.
+
+Accepted papers will be included in the OSIRRC 2019 proceedings in the [CEUR Workshop Proceedings](http://ceur-ws.org/) series, indexed by DBLP, Google Scholar, Scopus and others.
+
+All the accepted papers will be given a presentation slot during the workshop.
+
+# Docker Images Submission Guidelines
+
+To be done.
+
+# Paper Submission Guidelines
+
+We invite submissions of:
+
+* docker papers (up to 8 pages): describing the participation in the OSIRRC challenge; these papers can be submitted only by teams which have also submitted docker images
+
+* position papers (up to 4 pages): discussing replicability and reproducibility challenges in IR,  with a special focus on infrastructures enabling them;
+
+Submissions must be in English, in PDF format, and must use standard ACM SIGIR templates, available at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template) for both LaTeX and Word. 
+
+Papers must report work that is not previously published, not accepted for publication elsewhere, and not currently under review elsewhere.
+
+Submissions will be subject to double-blind reviewing and should not contain any author identification.
+
+Papers should be submitted electronically conference submission system at: [https://easychair.org/conferences/?conf=osirrc2019](https://easychair.org/conferences/?conf=osirrc2019)
+
+## Important Dates
+
+Deadline time is 11:59 p.m. (anywhere in the world)
+
+It is intended that submissions which are rejected at the "position papers" round cannot be re-submitted at the "docker papers" round.
+
+- Position papers submission deadline: May 3, 2019
+- Position papers notifications to authors: May 31, 2019
+- Docker images submission deadline:  June 14, 2019
+- Docker papers submission deadline:  June 14, 2019
+- Docker papers notifications to authors: June 28, 2019
+- Camera ready (position and docker paper submissions) due: July 5, 2019
+- OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
+
+# Organization
+
+## Program Committee
+
+To be announced.
+
+## OSIRRC 2019 Chairs
+
+- Nicola Ferro, University of Padua, Italy
+- Claudia Hauff, Delft University of Technology, The Netherlands
+- Jimmy Lin, University of Waterloo, Canada
+- Tetsuya Sakai, Waseda University, Japan
+
+Contact: osirrc2019-organizers@googlegroups.com 
+
+
+
+
