@@ -49,7 +49,7 @@ All the accepted papers will be given a presentation slot during the workshop.
 
 # Docker Images Submission Guidelines
 
-To be done.
+To be announced.
 
 # Paper Submission Guidelines
 
