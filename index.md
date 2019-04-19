@@ -85,7 +85,20 @@ It is intended that submissions which are rejected at the "position papers" roun
 
 ## Program Committee
 
-To be announced.
+- Shane Culpepper, RMIT University, Australia
+- Yixing Fan, Chinese Academy of Sciences (CAS), China
+- Norbert Fuhr, University of Duisburg-Essen, Germany
+- Faegheh Hasibi, Radboud University, The Netherlands
+- Diane Kelly, University of Tennensee, USA
+- Maria Maistro, University of Copenaghen, Denmark
+- Raffaele Perego, ISTI, CNR, Italy
+- Martin Potthast, Leipzig University, Germany
+- Ian Soboroff, National Institute of Standards and Technology (NIST), USA
+- Andrew Trotman, University of Otago, New Zealand
+- Arjen P. de Vries, Radboud University, The Netherlands
+- Justin Zobel, University of Melbourne, Australia
+
+
 
 ## OSIRRC 2019 Chairs
 
