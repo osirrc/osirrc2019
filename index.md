@@ -89,6 +89,7 @@ It is intended that submissions which are rejected at the "position papers" roun
 - Yixing Fan, Chinese Academy of Sciences (CAS), China
 - Norbert Fuhr, University of Duisburg-Essen, Germany
 - Faegheh Hasibi, Radboud University, The Netherlands
+- Makoto P. Kato, University of Tsukuba, Japan
 - Diane Kelly, University of Tennensee, USA
 - Maria Maistro, University of Copenaghen, Denmark
 - Raffaele Perego, ISTI, CNR, Italy
