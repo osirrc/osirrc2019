@@ -71,13 +71,9 @@ Papers should be submitted electronically conference submission system at: [http
 
 Deadline time is 11:59 p.m. (anywhere in the world)
 
-It is intended that submissions which are rejected at the "position papers" round cannot be re-submitted at the "docker papers" round.
-
-- Position papers submission deadline: May 3, 2019
-- Position papers notifications to authors: May 31, 2019
 - Docker images submission deadline:  June 14, 2019
-- Docker papers submission deadline:  June 14, 2019
-- Docker papers notifications to authors: June 28, 2019
+- Position papers and Docker papers submission deadline:  June 14, 2019
+- Position and Docker papers notifications to authors: June 28, 2019
 - Camera ready (position and docker paper submissions) due: July 5, 2019
 - OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
 
