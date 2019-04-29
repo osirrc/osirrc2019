@@ -63,8 +63,6 @@ Submissions must be in English, in PDF format, and must use standard ACM SIGIR t
 
 Papers must report work that is not previously published, not accepted for publication elsewhere, and not currently under review elsewhere.
 
-Submissions will be subject to double-blind reviewing and should not contain any author identification.
-
 Papers should be submitted electronically conference submission system at: [https://easychair.org/conferences/?conf=osirrc2019](https://easychair.org/conferences/?conf=osirrc2019)
 
 ## Important Dates
