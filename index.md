@@ -97,10 +97,12 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 
 ## OSIRRC 2019 Chairs
 
+- Ryan Clancy, University of Waterloo, Canada
 - Nicola Ferro, University of Padua, Italy
 - Claudia Hauff, Delft University of Technology, The Netherlands
 - Jimmy Lin, University of Waterloo, Canada
 - Tetsuya Sakai, Waseda University, Japan
+- Ze Zhong Wu, University of Waterloo, Canada
 
 Contact: osirrc2019-organizers@googlegroups.com 
 
