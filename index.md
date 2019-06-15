@@ -47,9 +47,6 @@ All the accepted papers, both position and docker images papers, will be include
 
 All the accepted papers will be given a presentation slot during the workshop.
 
-# Docker Images Submission Guidelines
-
-To be announced.
 
 # Paper Submission Guidelines
 
@@ -65,14 +62,23 @@ Papers must report work that is not previously published, not accepted for publi
 
 Papers should be submitted electronically conference submission system at: [https://easychair.org/conferences/?conf=osirrc2019](https://easychair.org/conferences/?conf=osirrc2019)
 
-## Important Dates
+## Important Dates for Position Papers
 
 Deadline time is 11:59 p.m. (anywhere in the world)
 
-- Docker images submission deadline:  June 14, 2019
-- Position papers and Docker papers submission deadline:  June 14, 2019
-- Position and Docker papers notifications to authors: June 28, 2019
-- Camera ready (position and docker paper submissions) due: July 5, 2019
+- Position papers: June 14, 2019
+- Position papers notifications to authors: June 28, 2019
+- Camera ready (position papers) due: July 5, 2019
+- OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
+
+## Important Dates for Docker Images and Docker Papers
+
+Deadline time is 11:59 p.m. (anywhere in the world)
+
+- Docker images submission deadline:  June 24, 2019
+- Docker papers submission deadline:  June 28, 2019
+- Docker papers notifications to authors: July 7, 2019
+- Camera ready (docker papers) due: July 12, 2019
 - OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
 
 # Organization
