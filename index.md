@@ -146,7 +146,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 - *The OldDog Docker Image for OSIRRC at SIGIR 2019*  
   Chris Kamphuis, Arjen de Vries
 - *PISA: Performant Indexes and Search for Academia*  
-  Antonio Mallia, Michal Siedlaczek, Joel Mackenzie, Torsten Suel
+  Antonio Mallia, Micha&lstrok; Siedlaczek, Joel Mackenzie, Torsten Suel
 - *ielab at the Open-Source IR Replicability Challenge 2019*  
   Harrisen Scells, Guido Zuccon
 - *BM25 Pseudo Relevance Feedback Using Anserini at Waseda University*  
