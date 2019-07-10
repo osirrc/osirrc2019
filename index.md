@@ -89,10 +89,15 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 ### 09:00-09:30 OSIRRC Overview
 
 - *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*  
-  Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu.
+  Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu
 
 
 ### 09:30-10:30 Lightning Talks [4 minutes each]
+
+- *STELLA: Towards a Framework for the Reproducibility of Online Search Experiments*  
+  Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller
+
+
 
 ### 10:30-11:00 Coffee Break
 
