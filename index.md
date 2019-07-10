@@ -94,9 +94,17 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 
 ### 09:30-10:30 Lightning Talks [4 minutes each]
 
+
+##### Position Papers
+
 - *STELLA: Towards a Framework for the Reproducibility of Online Search Experiments*  
   Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller
+- *Let's measure run time! Extending the IR replicability infrastructure to include performance aspects*  
+  Sebastian Hofst&auml;tter, Allan Hanbury
+- *Reproducible IR needs an (IR) (Graph) Query Language*  
+  Chris Kamphuis, Arjen P. de Vries
 
+##### Docker Papers
 
 
 ### 10:30-11:00 Coffee Break
