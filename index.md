@@ -84,13 +84,11 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 
 # Program
 
-
-
-# Organization
-
 ### 08:55-09:00 Welcome and Opening
 
 ### 09:00-09:30 OSIRRC Overview
+
+- Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu. *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*
 
 ### 09:30-10:30 Lightning Talks [4 minutes each]
 
@@ -103,6 +101,9 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 ### 12:30-13:30 Lunch
 
 
+
+
+# Organization
 
 ## Program Committee
 
