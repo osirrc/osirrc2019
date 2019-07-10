@@ -81,7 +81,28 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 - Camera ready (docker papers) due: July 12, 2019
 - OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
 
+
+# Program
+
+
+
 # Organization
+
+### 08:55-09:00 Welcome and Opening
+
+### 09:00-09:30 OSIRRC Overview
+
+### 09:30-10:30 Lightning Talks [4 minutes each]
+
+### 10:30-11:00 Coffee Break
+
+### 11:00-11:45 Breakout Group Discussion
+
+### 11:45-12:30 General Discussion and Closing
+
+### 12:30-13:30 Lunch
+
+
 
 ## Program Committee
 
