@@ -106,6 +106,27 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 
 ##### Docker Papers
 
+- *Entity Retrieval Docker Image for OSIRRC at SIGIR 2019*  
+  Negar Arabzadeh
+- *Dockerising Terrier for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
+  Arthur Barbosa C&acirc;mara, Craig Macdonald
+- *Dockerizing Automatic Routing Runs for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
+  Timo Breuer, Philipp Schaer
+- *University of Waterloo Docker Images for OSIRRC at SIGIR 2019*  
+  Ryan Clancy, Zeynep Akkalyoncu Yilmaz, Ze Zhong Wu, Jimmy Lin
+- *A Docker-Based Replicability Study of a Neural Information Retrieval Model*  
+  Nicola Ferro, Stefano Marchesin, Alberto Purpura,  Gianmaria Silvello
+- *Dockerizing Indri for OSIRRC 2019*  
+  Claudia Hauff
+- *The OldDog Docker Image for OSIRRC at SIGIR 2019*  
+  Chris Kamphuis, Arjen de Vries
+- *PISA: Performant Indexes and Search for Academia*  
+  Antonio Mallia, Michal Siedlaczek, Joel Mackenzie, Torsten Suel
+- *ielab at the Open-Source IR Replicability Challenge 2019*  
+  Harrisen Scells, Guido Zuccon
+- *BM25 Pseudo Relevance Feedback Using Anserini at Waseda University*  
+  Zhaohao Zeng, Tetsuya Sakai
+  
 
 ### 10:30-11:00 Coffee Break
 
