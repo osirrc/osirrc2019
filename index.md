@@ -88,8 +88,7 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 
 ### 09:00-09:30 OSIRRC Overview
 
-- *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*
-
+- *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*  
   Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu.
 
 
