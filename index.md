@@ -82,6 +82,31 @@ Deadline time is 11:59 p.m. (anywhere in the world)
 - OSIRRC 2019, co-located with [SIGIR 2019](http://sigir.org/sigir2019/), Paris, France: July 25, 2019
 
 
+# OSIRRC 2019 Image Library
+
+The [OSIRRC 2019 Image Library](https://github.com/osirrc/osirrc2019-library/) repository catalogs the images that have been submitted to the OSIRRC 2019.
+The actual raw runs are held in a [separate repository](https://github.com/osirrc/osirrc2019-runs).
+
+
++ [Anserini](https://github.com/osirrc/osirrc2019-library/#Anserini)
++ [Anserini-bm25prf](https://github.com/osirrc/osirrc2019-library/#Anserini-bm25prf)
++ [ATIRE](https://github.com/osirrc/osirrc2019-library/#ATIRE)
++ [Birch](https://github.com/osirrc/osirrc2019-library/#Birch)
++ [Elastirini](https://github.com/osirrc/osirrc2019-library/#Elastirini)
++ [EntityRetrieval](https://github.com/osirrc/osirrc2019-library/#EntityRetrieval)
++ [Galago](https://github.com/osirrc/osirrc2019-library/#Galago)
++ [ielab](https://github.com/osirrc/osirrc2019-library/#ielab)
++ [Indri](https://github.com/osirrc/osirrc2019-library/#Indri)
++ [IRC-CENTRE2019](https://github.com/osirrc/osirrc2019-library/#IRC-CENTRE2019)
++ [JASS](https://github.com/osirrc/osirrc2019-library/#JASS)
++ [JASSv2](https://github.com/osirrc/osirrc2019-library/#JASSv2)
++ [NVSM](https://github.com/osirrc/osirrc2019-library/#NVSM)
++ [OldDog](https://github.com/osirrc/osirrc2019-library/#OldDog)
++ [PISA](https://github.com/osirrc/osirrc2019-library/#PISA)
++ [Solrini](https://github.com/osirrc/osirrc2019-library/#Solrini)
++ [Terrier](https://github.com/osirrc/osirrc2019-library/#Terrier)
+
+
 # Program
 
 ### 08:55-09:00 Welcome and Opening
