@@ -17,7 +17,7 @@ These guidelines are also being adopted by the SIGIR community, which has recent
 This workshop tackles the replicability challenge for _ad hoc_ document retrieval, with three explicit goals:
 
 1. Develop a common Docker specification to support images that capture systems performing _ad hoc_ retrieval experiments on standard test collections.
-The solution that we have developed is known as ``the jig''.
+The solution that we have developed is known as `the jig`.
 
 2. Build a curated library of Docker images that work with the jig to capture a diversity of systems and retrieval models.
 
