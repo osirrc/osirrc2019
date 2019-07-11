@@ -40,7 +40,7 @@ We are solicited two kinds of contributions from the community:
   The goal of these papers is to further stimulate the discussion at the workshop and help shaping the path forward for the community.
 
 
-Here, you can find full details about [Submission Instructions and Important Dates](http://sigir.org/sigir2019/).
+Here, you can find full details about [Submission Instructions and Important Dates](https://osirrc.github.io/osirrc2019/cfp.html).
 
 
 # OSIRRC 2019 Image Library
