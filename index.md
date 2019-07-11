@@ -1,6 +1,10 @@
 # Vision
 
-The importance of repeatability, replicability, and reproducibility is broadly recognized in the computational sciences, both in supporting desirable scientific methodology as well as sustaining empirical progress. Recent [ACM guidelines](https://www.acm.org/publications/policies/artifact-review-badging) precisely define the relevant terms as follows:
+The importance of repeatability, replicability, and reproducibility is broadly recognized in the computational sciences, both in supporting desirable scientific methodology as well as sustaining empirical progress.  The **Open-Source IR Replicability Challenge (OSIRRC2019)**, organized as a workshop at [SIGIR 2019](http://sigir.org/sigir2019/), aims to improve the replicability of ad hoc retrieval experiments in information retrieval by building community consensus around a common technical specification, with reference implementations.
+
+
+
+In order to precisely articulate the goals of this workshop, it is first necessary to establish common terminology. We use the below terms in the same manner as recent [ACM guidelines](https://www.acm.org/publications/policies/artifact-review-badging) pertaining to artifact review and badging:
 
 - Repeatability (same team, same experimental setup): a researcher can reliably repeat her own computation.
 
@@ -10,22 +14,24 @@ The importance of repeatability, replicability, and reproducibility is broadly r
 
 These guidelines are also being adopted by the SIGIR community, which has recently established [a task force to determine how to implement them for IR](http://sigir.org/wp-content/uploads/2018/07/p004.pdf).
 
-OSIRRC 2019 aims to address the replicability challenge for ad hoc document retrieval. That is, how can we make it easy for others to replicate our results? Trivially, replicability ensures repeatability, and is a stepping stone toward reproducibility.
+This workshop tackles the replicability challenge for _ad hoc_ document retrieval, with three explicit goals:
 
-Our vision is to build Docker-based infrastructure for replicating results on standard ad hoc test collections (newswire, web, etc.). A future paper, for example, might be paired with a Docker image whose execution yields the results presented in the paper. However, to maximize the impact of these Docker images, the following would be desirable:
+1. Develop a common Docker specification to support images that capture systems performing _ad hoc_ retrieval experiments on standard test collections.
+The solution that we have developed is known as ``the jig''.
 
-1. These Docker images should follow some common specification, with "hooks" for indexing, training, retrieval, etc. The development of this specification should involve a community process.
+2. Build a curated library of Docker images that work with the jig to capture a diversity of systems and retrieval models.
 
-2. There needs to be evaluation infrastructure that calls the "hooks" above for multiple images to perform aggregation and analyses, for example, to populate a leaderboard or to evaluate the images on a blind held-out test set.
+3. Explore the possibility of broadening our efforts to include additional tasks, diverse evaluation methodologies, and other benchmarking initiatives.
 
-Participants in OSIRRC 2019 will help build consensus on the Docker specifications and contribute Docker images that conform to the agreed-upon specifications. The organizers, potentially with help from the community, will build the evaluation infrastructure.
+
+Participants in OSIRRC 2019 help in building consensus on the Docker specifications and contribute Docker images that conform to the agreed-upon specifications. 
 
 Interested individuals and teams are requested to email osirrc2019-organizers@googlegroups.com for more details or directly join the Google groups osirrc2019@googlegroups.com.
 
 
 # Contributions
 
-We are solicited two kinds of contributions from the community:
+We solicited two kinds of contributions from the community:
 
 #### Participation in the replicability challenge and related "docker paper"
 
