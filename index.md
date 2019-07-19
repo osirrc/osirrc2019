@@ -55,7 +55,7 @@ The [OSIRRC 2019 Proceedings](http://ceur-ws.org/Vol-2409/) are available online
 
 You can cite them as:
 
-Clancy, R., Ferro, N., Hauff, C., Sakai, T., and Wu, Z. Z., editors (2019). _Proc. of the Open-Source IR Replicability Challenge (OSIRRC 2019)__. CEUR Workshop Proceedings (CEUR-WS.org), ISSN 1613-0073, http: //ceur-ws.org/Vol-2409/.
+Clancy, R., Ferro, N., Hauff, C., Sakai, T., and Wu, Z. Z., editors (2019). *Proc. of the Open-Source IR Replicability Challenge (OSIRRC 2019)*. CEUR Workshop Proceedings (CEUR-WS.org), ISSN 1613-0073, http: //ceur-ws.org/Vol-2409/.
 
 
 # OSIRRC 2019 Image Library
@@ -90,7 +90,8 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 ### 09:00-09:30 OSIRRC Overview
 
 - *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*  
-  Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu
+  Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu  
+  [[Paper]](http://ceur-ws.org/Vol-2409/invited01.pdf)
 
 
 ### 09:30-10:30 Lightning Talks [4 minutes each]
@@ -102,32 +103,44 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
   Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller  
   [[Paper]](http://ceur-ws.org/Vol-2409/position01.pdf)
 - *Let's measure run time! Extending the IR replicability infrastructure to include performance aspects*  
-  Sebastian Hofst&auml;tter, Allan Hanbury
+  Sebastian Hofst&auml;tter, Allan Hanbury  
+  [[Paper]](http://ceur-ws.org/Vol-2409/position02.pdf)
 - *Reproducible IR needs an (IR) (Graph) Query Language*  
-  Chris Kamphuis, Arjen P. de Vries
+  Chris Kamphuis, Arjen P. de Vries  
+  [[Paper]](http://ceur-ws.org/Vol-2409/position03.pdf)
 
 ##### Docker Papers
 
 - *Entity Retrieval Docker Image for OSIRRC at SIGIR 2019*  
-  Negar Arabzadeh
+  Negar Arabzadeh  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker01.pdf)
 - *Dockerising Terrier for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
-  Arthur Barbosa C&acirc;mara, Craig Macdonald
+  Arthur Barbosa C&acirc;mara, Craig Macdonald  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker02.pdf)
 - *Dockerizing Automatic Routing Runs for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
-  Timo Breuer, Philipp Schaer
+  Timo Breuer, Philipp Schaer  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker03.pdf)
 - *University of Waterloo Docker Images for OSIRRC at SIGIR 2019*  
-  Ryan Clancy, Zeynep Akkalyoncu Yilmaz, Ze Zhong Wu, Jimmy Lin
+  Ryan Clancy, Zeynep Akkalyoncu Yilmaz, Ze Zhong Wu, Jimmy Lin  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker04.pdf)
 - *A Docker-Based Replicability Study of a Neural Information Retrieval Model*  
-  Nicola Ferro, Stefano Marchesin, Alberto Purpura,  Gianmaria Silvello
+  Nicola Ferro, Stefano Marchesin, Alberto Purpura,  Gianmaria Silvello  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker05.pdf)
 - *Dockerizing Indri for OSIRRC 2019*  
-  Claudia Hauff
+  Claudia Hauff  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker06.pdf)
 - *The OldDog Docker Image for OSIRRC at SIGIR 2019*  
-  Chris Kamphuis, Arjen de Vries
+  Chris Kamphuis, Arjen de Vries  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker07.pdf)
 - *PISA: Performant Indexes and Search for Academia*  
-  Antonio Mallia, Micha&lstrok; Siedlaczek, Joel Mackenzie, Torsten Suel
+  Antonio Mallia, Micha&lstrok; Siedlaczek, Joel Mackenzie, Torsten Suel  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker08.pdf)
 - *ielab at the Open-Source IR Replicability Challenge 2019*  
-  Harrisen Scells, Guido Zuccon
+  Harrisen Scells, Guido Zuccon  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker09.pdf)
 - *BM25 Pseudo Relevance Feedback Using Anserini at Waseda University*  
-  Zhaohao Zeng, Tetsuya Sakai
+  Zhaohao Zeng, Tetsuya Sakai  
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker10.pdf)
   
 
 ### 10:30-11:00 Coffee Break
