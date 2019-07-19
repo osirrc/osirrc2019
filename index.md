@@ -49,6 +49,15 @@ We solicited two kinds of contributions from the community:
 Here, you can find full details about [Submission Instructions and Important Dates](https://osirrc.github.io/osirrc2019/cfp.html).
 
 
+# OSIRRC 2019 Proceedings at CEUR-WS
+
+The [OSIRRC 2019 Proceedings](http://ceur-ws.org/Vol-2409/) are available online at CEUR-WS.
+
+You can cite them as:
+
+Clancy, R., Ferro, N., Hauff, C., Sakai, T., and Wu, Z. Z., editors (2019). _Proc. of the Open-Source IR Replicability Challenge (OSIRRC 2019)__. CEUR Workshop Proceedings (CEUR-WS.org), ISSN 1613-0073, http: //ceur-ws.org/Vol-2409/.
+
+
 # OSIRRC 2019 Image Library
 
 The [OSIRRC 2019 Image Library](https://github.com/osirrc/osirrc2019-library/) repository catalogs the images that have been submitted to the OSIRRC 2019.
@@ -90,7 +99,8 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 ##### Position Papers
 
 - *STELLA: Towards a Framework for the Reproducibility of Online Search Experiments*  
-  Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller
+  Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller  
+  [[Paper]](http://ceur-ws.org/Vol-2409/position01.pdf)
 - *Let's measure run time! Extending the IR replicability infrastructure to include performance aspects*  
   Sebastian Hofst&auml;tter, Allan Hanbury
 - *Reproducible IR needs an (IR) (Graph) Query Language*  
