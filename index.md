@@ -119,31 +119,31 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
   [[Paper]](http://ceur-ws.org/Vol-2409/docker01.pdf)
 - *Dockerising Terrier for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
   Arthur Barbosa C&acirc;mara, Craig Macdonald  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker02.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker02.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker02-slides.pdf)
 - *Dockerizing Automatic Routing Runs for The Open-Source IR Replicability Challenge (OSIRRC 2019)*  
   Timo Breuer, Philipp Schaer  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker03.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker03.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker03-slides.pdf)
 - *University of Waterloo Docker Images for OSIRRC at SIGIR 2019*  
   Ryan Clancy, Zeynep Akkalyoncu Yilmaz, Ze Zhong Wu, Jimmy Lin  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker04.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker04.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker04-slides.pdf)
 - *A Docker-Based Replicability Study of a Neural Information Retrieval Model*  
   Nicola Ferro, Stefano Marchesin, Alberto Purpura,  Gianmaria Silvello  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker05.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker05.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker05-slides.pdf)
 - *Dockerizing Indri for OSIRRC 2019*  
   Claudia Hauff  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker06.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker06.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker06-slides.pdf)
 - *The OldDog Docker Image for OSIRRC at SIGIR 2019*  
   Chris Kamphuis, Arjen de Vries  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker07.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker07.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker07-slides.pdf)
 - *PISA: Performant Indexes and Search for Academia*  
   Antonio Mallia, Micha&lstrok; Siedlaczek, Joel Mackenzie, Torsten Suel  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker08.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker08.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker08-slides.pdf)
 - *ielab at the Open-Source IR Replicability Challenge 2019*  
   Harrisen Scells, Guido Zuccon  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker09.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker09.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker09-slides.pdf)
 - *BM25 Pseudo Relevance Feedback Using Anserini at Waseda University*  
   Zhaohao Zeng, Tetsuya Sakai  
-  [[Paper]](http://ceur-ws.org/Vol-2409/docker10.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/docker10.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/docker10-slides.pdf)
   
 
 ### 10:30-11:00 Coffee Break
