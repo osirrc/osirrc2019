@@ -109,7 +109,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
   Chris Kamphuis, Arjen P. de Vries  
   [[Paper]](http://ceur-ws.org/Vol-2409/position03.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/position03-slides.pdf)
 - *Repeatable Runs for Test Collection Documentation*  
-  Ian Soboroff 
+  Ian Soboroff  
   [[Slides]](https://osirrc.github.io/osirrc2019/slides/position04-slides.pdf)
 
 ##### Docker Papers
