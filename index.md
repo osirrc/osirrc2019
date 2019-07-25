@@ -91,7 +91,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 
 - *Overview of the 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)*  
   Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai, Ze Zhong Wu  
-  [[Paper]](http://ceur-ws.org/Vol-2409/invited01.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/invited01.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/invited01-slides.pdf)
 
 
 ### 09:30-10:30 Lightning Talks [4 minutes each]
