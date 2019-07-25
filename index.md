@@ -101,13 +101,16 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 
 - *STELLA: Towards a Framework for the Reproducibility of Online Search Experiments*  
   Timo Breuer, Philipp Schaer, Narges Tavalkolpoursaleh, Benjamin Wolff, Bernd M&uuml;ller  
-  [[Paper]](http://ceur-ws.org/Vol-2409/position01.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/position01.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/position01-slides.pdf)
 - *Let's measure run time! Extending the IR replicability infrastructure to include performance aspects*  
   Sebastian Hofst&auml;tter, Allan Hanbury  
-  [[Paper]](http://ceur-ws.org/Vol-2409/position02.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/position02.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/position02-slides.pdf)
 - *Reproducible IR needs an (IR) (Graph) Query Language*  
   Chris Kamphuis, Arjen P. de Vries  
-  [[Paper]](http://ceur-ws.org/Vol-2409/position03.pdf)
+  [[Paper]](http://ceur-ws.org/Vol-2409/position03.pdf) [[Slides]](https://osirrc.github.io/osirrc2019/slides/position03-slides.pdf)
+- *Repeatable Runs for Test Collection Documentation*  
+  Ian Soboroff 
+  [[Slides]](https://osirrc.github.io/osirrc2019/slides/position04-slides.pdf)
 
 ##### Docker Papers
 
